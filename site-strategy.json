@@ -1,0 +1,78 @@
+{
+    "hero_badge": "Oficina no Boqueirão · Nota 4,5 no Google",
+    "hero_line": "Mecânica de confiança para seu carro em Curitiba. Orçamento rápido pelo WhatsApp.",
+    "services_headline": "O que resolvemos no seu carro",
+    "services_intro": "Serviços completos para Fiat, Chevrolet, VW, Renault, Hyundai, Toyota, Honda e Nissan. Fale conosco e receba um orçamento sem compromisso.",
+    "split_headline": "Seu carro nas mãos de quem entende",
+    "confidence_headline": "Por que mais de 250 motoristas avaliam bem a gente",
+    "location_headline": "Fácil de chegar, no Boqueirão em Curitiba",
+    "steps_headline": "Como funciona o atendimento",
+    "faq_headline": "Perguntas frequentes",
+    "service_cards": [
+        {
+            "title": "Diagnóstico",
+            "body": "Luz acesa no painel ou barulho estranho? Fazemos a leitura completa e explicamos o problema antes de qualquer serviço.",
+            "icon": "ph-gauge"
+        },
+        {
+            "title": "Freios e suspensão",
+            "body": "Pastilhas, discos, amortecedores e alinhamento. Segurança para rodar tranquilo por Curitiba e região.",
+            "icon": "ph-steering-wheel"
+        },
+        {
+            "title": "Revisão preventiva",
+            "body": "Troca de óleo, filtros e checagem geral. Revisão em dia evita gasto maior lá na frente.",
+            "icon": "ph-wrench"
+        }
+    ],
+    "benefits": [
+        {
+            "title": "Orçamento claro",
+            "body": "Você aprova antes. Sem surpresa na hora de pagar e sem serviço que não foi combinado.",
+            "icon": "ph-check-circle"
+        },
+        {
+            "title": "Todas as marcas populares",
+            "body": "Experiência com Fiat, Chevrolet, VW, Renault, Hyundai, Toyota, Honda e Nissan.",
+            "icon": "ph-car"
+        },
+        {
+            "title": "Resposta rápida no WhatsApp",
+            "body": "Mande foto ou descreva o problema. A gente responde e já agenda seu horário.",
+            "icon": "ph-whatsapp-logo"
+        }
+    ],
+    "faq": [
+        {
+            "question": "Preciso agendar ou posso chegar direto?",
+            "answer": "Recomendamos agendar pelo WhatsApp para evitar espera, mas também atendemos por ordem de chegada quando há vaga na agenda."
+        },
+        {
+            "question": "Vocês passam o orçamento antes de mexer no carro?",
+            "answer": "Sim. Avaliamos o veículo, explicamos o que precisa ser feito e você aprova o valor antes de qualquer serviço."
+        },
+        {
+            "question": "Atendem carros de quais marcas?",
+            "answer": "Trabalhamos com as principais marcas populares: Fiat, Chevrolet, VW, Renault, Hyundai, Toyota, Honda e Nissan, entre outras."
+        },
+        {
+            "question": "Onde fica a oficina e atendem toda a região?",
+            "answer": "Estamos na Rua Coronel Luiz José dos Santos, no Boqueirão, em Curitiba. Recebemos clientes de toda a cidade e região metropolitana."
+        }
+    ],
+    "image_direction": {
+        "hero_mobile": "Vertical 4:5, dia claro e seco, fachada de oficina limpa com carro popular na entrada, sem placas legíveis, foco central para recorte mobile.",
+        "hero_desktop": "Horizontal 16:9, interior de oficina iluminada por luz natural, elevador com carro popular, espaço negativo à esquerda para texto.",
+        "service_1": "Close das mãos de mecânico com scanner de diagnóstico no painel, luz de dia, sem logos, fundo levemente desfocado.",
+        "service_2": "Mecânica ajustando suspensão em carro elevado, ambiente organizado, dia claro, pessoa diferente das demais fotos.",
+        "trust": "Cliente sorrindo recebendo a chave do carro na recepção, luz natural, dia seco, pessoas distintas das outras cenas, sem placas.",
+        "og_image": "Horizontal 1200x630, fachada ou bancada organizada em dia claro, área livre para nome da oficina, cores compatíveis com azul e amarelo da marca."
+    },
+    "quality_checks": [
+        "Validar contraste WCAG AA dos botões amarelo #F4C430 sobre azul #0F4C81 e do texto em todos os fundos.",
+        "Testar CTA de WhatsApp fixo no mobile, links de rota no mapa e schema LocalBusiness + FAQPage sem erros no validador.",
+        "Revisar copy: sem promessa de posição garantida no Google ou em IAs, acentuação correta e frases curtas em todo o site."
+    ],
+    "created_by": "zenmux:anthropic/claude-fable-5",
+    "created_at": "2026-07-02T20:33:31-03:00"
+}
